@@ -30,7 +30,7 @@
 											<img alt="Image placeholder" src="<?php echo $asset_url; ?>/img/theme/bootstrap.jpg">
 										</a>
 										<div class="media-body">
-											<span class="mb-0 text-sm">Argon Design System</span>
+											<span class="mb-0 text-sm">Nuzril a.k.a nunuk</span>
 										</div>
 									</div>
 								</th>

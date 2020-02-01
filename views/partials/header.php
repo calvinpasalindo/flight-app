@@ -57,7 +57,7 @@
 							<div class="col-6 collapse-brand">
 								<a class="navbar-brand pt-0" href="<?php echo get_url(); ?>">
 									<div class="navbar-brand-icon "><i class="ni ni-spaceship"></i></div>
-									<span class="navbar-brand-text">My App</span>
+									<span class="navbar-brand-text">APLIKASIQUE</span>
 								</a>
 							</div>
 							<div class="col-6 collapse-close">
@@ -92,7 +92,7 @@
 										<img alt="Image placeholder" src="<?php echo $asset_url; ?>/img/theme/team-4-800x800.jpg">
 									</span>
 									<div class="media-body ml-2 d-none d-lg-block">
-										<span class="mb-0 text-sm  font-weight-bold">Jessica Jones</span>
+										<span class="mb-0 text-sm  font-weight-bold">Calvin Pasalindo</span>
 									</div>
 								</div>
 							</a>
